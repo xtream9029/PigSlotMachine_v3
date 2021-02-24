@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:567f68f9e3ef6c8b21718abcf0893f53:328202a19b3e1979698196a0f957bb7b:043c1c34a1bc0a2863b6a3d63ed50287$
+#
+:format=40300
+:texture=Slot193_BG.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+BG_0;3;289;811;203; 0.5;0.5; 0;0;0;0
+BG_1;3;496;811;525; 0.5;0.5; 0;0;0;0
+BG_2;3;113;811;172; 0.5;0.5; 0;0;0;0

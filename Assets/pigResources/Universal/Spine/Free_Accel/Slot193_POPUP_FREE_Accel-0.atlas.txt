@@ -1,0 +1,174 @@
+
+Slot193_POPUP_FREE_Accel-0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_e1
+  rotate: true
+  xy: 233, 501
+  size: 106, 228
+  orig: 108, 236
+  offset: 2, 4
+  index: -1
+acc_e2
+  rotate: false
+  xy: 323, 614
+  size: 107, 229
+  orig: 108, 236
+  offset: 1, 4
+  index: -1
+acc_e3
+  rotate: true
+  xy: 1, 501
+  size: 108, 230
+  orig: 108, 236
+  offset: 0, 4
+  index: -1
+acc_e4
+  rotate: true
+  xy: 132, 846
+  size: 107, 230
+  orig: 108, 236
+  offset: 1, 4
+  index: -1
+acc_e5
+  rotate: false
+  xy: 105, 614
+  size: 108, 230
+  orig: 108, 236
+  offset: 0, 4
+  index: -1
+acc_e6
+  rotate: false
+  xy: 215, 614
+  size: 106, 230
+  orig: 108, 236
+  offset: 2, 4
+  index: -1
+acc_e7
+  rotate: true
+  xy: 645, 501
+  size: 104, 229
+  orig: 108, 236
+  offset: 3, 4
+  index: -1
+acc_e8
+  rotate: true
+  xy: 364, 845
+  size: 101, 229
+  orig: 108, 236
+  offset: 4, 4
+  index: -1
+acc_e9
+  rotate: true
+  xy: 432, 710
+  size: 101, 229
+  orig: 108, 236
+  offset: 4, 4
+  index: -1
+acc_e10
+  rotate: true
+  xy: 645, 607
+  size: 101, 229
+  orig: 108, 236
+  offset: 4, 4
+  index: -1
+acc_e11
+  rotate: false
+  xy: 1, 614
+  size: 102, 231
+  orig: 108, 236
+  offset: 4, 3
+  index: -1
+acc_e12
+  rotate: true
+  xy: 645, 396
+  size: 103, 233
+  orig: 108, 236
+  offset: 4, 2
+  index: -1
+acc_e13
+  rotate: true
+  xy: 645, 186
+  size: 103, 235
+  orig: 108, 236
+  offset: 3, 1
+  index: -1
+acc_e14
+  rotate: true
+  xy: 645, 291
+  size: 103, 235
+  orig: 108, 236
+  offset: 3, 1
+  index: -1
+acc_e15
+  rotate: false
+  xy: 876, 614
+  size: 103, 227
+  orig: 108, 236
+  offset: 3, 5
+  index: -1
+Free_bg
+  rotate: false
+  xy: 1, 1
+  size: 642, 439
+  orig: 642, 439
+  offset: 0, 0
+  index: -1
+TLP_popup_speechbubble
+  rotate: true
+  xy: 463, 442
+  size: 215, 180
+  orig: 215, 180
+  offset: 0, 0
+  index: -1
+TLP_popup_text_2x
+  rotate: true
+  xy: 1, 847
+  size: 162, 129
+  orig: 164, 130
+  offset: 2, 0
+  index: -1
+TLP_popup_text_3x
+  rotate: true
+  xy: 880, 449
+  size: 163, 129
+  orig: 164, 130
+  offset: 1, 0
+  index: -1
+TLP_popup_text_4x
+  rotate: true
+  xy: 882, 283
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+TLP_popup_text_allpays
+  rotate: true
+  xy: 950, 159
+  size: 122, 41
+  orig: 156, 43
+  offset: 17, 2
+  index: -1
+TLP_popup_text_freegames
+  rotate: true
+  xy: 950, 1
+  size: 156, 43
+  orig: 156, 43
+  offset: 0, 0
+  index: -1
+TLP_popup_text_pressstart
+  rotate: true
+  xy: 995, 1
+  size: 193, 27
+  orig: 193, 27
+  offset: 0, 0
+  index: -1
+TLP_popup_title_freegames
+  rotate: false
+  xy: 645, 1
+  size: 303, 183
+  orig: 303, 183
+  offset: 0, 0
+  index: -1

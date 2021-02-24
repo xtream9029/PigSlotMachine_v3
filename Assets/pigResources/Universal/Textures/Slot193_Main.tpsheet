@@ -1,0 +1,57 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d5585986809158fe366192cd1b92351a:fe1a0c982c5eceb5f1da04f23731a6fd:5be4a6d632173571596ff77f154b6b9f$
+#
+:format=40300
+:texture=Slot193_Main.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=enabled
+
+effec_bg;295;36;100;100; 0.5;0.5; 0;0;0;0
+normal_reel_bg;3;27;34;482; 0.5;0.5; 16;16;0;0
+TLP_frame_free_bottom;227;5;499;27; 0.5;0.5; 0;0;0;0
+TLP_frame_free_inside;107;27;6;482; 0.5;0.5; 0;0;0;0
+TLP_frame_free_side;41;27;29;482; 0.5;0.5; 0;0;0;0
+TLP_frame_free_top;223;370;498;22; 0.5;0.5; 0;0;0;0
+TLP_frame_normal_bottom;223;396;499;27; 0.5;0.5; 0;0;0;0
+TLP_frame_normal_inside;117;27;6;482; 0.5;0.5; 0;0;0;0
+TLP_frame_normal_side;74;27;29;482; 0.5;0.5; 0;0;0;0
+TLP_frame_normal_top;223;344;498;22; 0.5;0.5; 0;0;0;0
+TLP_RCu_Free_jackpotframe;740;240;52;47; 0.5;0.5; 13;13;10;17
+TLP_RCu_Free_reel;127;268;92;241; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebar_2x;127;36;80;67; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebar_3x;211;36;80;67; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebar_4x;730;356;80;67; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebar_frameblue;287;284;60;56; 0.5;0.571429; 28;28;19;19
+TLP_RCu_freebar_framegreen;351;284;60;56; 0.5;0.571429; 28;28;19;19
+TLP_RCu_freebar_framered;223;280;60;60; 0.5;0.5333330000000001; 28;28;19;19
+TLP_RCu_freebardia_blue;399;75;120;77; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebardia_green;523;75;120;77; 0.5;0.5; 0;0;0;0
+TLP_RCu_freebardia_red;545;206;120;77; 0.5;0.5; 0;0;0;0
+TLP_RCu_Freegametext;728;188;57;47; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotcoin;647;125;77;77; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotnumber_5;702;239;34;48; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotnumber_6;669;238;29;49; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotnumber_7;730;15;29;51; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotnumber_8;647;69;31;52; 0.5;0.5; 0;0;0;0
+TLP_RCu_Jackpotnumber_9;631;287;34;53; 0.5;0.5; 0;0;0;0
+TLP_RCu_pg_5_bg;669;291;68;49; 0.5;0.5; 32;32;18;28
+TLP_RCu_pg_6_bg;682;70;68;51; 0.5;0.5; 32;32;20;28
+TLP_RCu_pg_7_bg;487;287;68;53; 0.5;0.5; 32;32;20;30
+TLP_RCu_pg_8_bg;559;287;68;53; 0.5;0.5; 32;32;22;28
+TLP_RCu_pg_9_bg;415;285;68;55; 0.5;0.5; 32;32;23;28
+TLP_RCu_pg_backbg;127;107;84;157; 0.5;0.5; 0;0;0;0
+TLP_RCu_title;227;427;597;82; 0.5;0.5; 0;0;0;0
+TLP_spinleft_2x;828;385;161;124; 0.5;0.5; 0;0;0;0
+TLP_spinleft_3x;215;140;161;124; 0.5;0.5; 0;0;0;0
+TLP_spinleft_4x;380;156;161;124; 0.5;0.5; 0;0;0;0
+TLP_spinleft_blueline;3;22;220;1; 0.5;0.5; 0;0;0;0
+TLP_spinleft_greenline;3;17;220;1; 0.5;0.5; 0;0;0;0
+TLP_spinleft_redline;3;12;220;1; 0.5;0.5; 0;0;0;0
+TLP_spinleft_text_of;545;162;38;40; 0.5;0.5; 0;0;0;0
+TLP_spinleft_text_spinleft;399;41;114;30; 0.5;0.5; 0;0;0;0

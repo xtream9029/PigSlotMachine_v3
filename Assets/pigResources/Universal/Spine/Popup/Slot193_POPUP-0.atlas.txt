@@ -1,0 +1,146 @@
+
+Slot193_POPUP-0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PG_popup_jp_5
+  rotate: false
+  xy: 351, 831
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+PG_popup_jp_6
+  rotate: false
+  xy: 449, 831
+  size: 93, 110
+  orig: 96, 110
+  offset: 2, 0
+  index: -1
+PG_popup_jp_7
+  rotate: true
+  xy: 754, 917
+  size: 84, 110
+  orig: 96, 110
+  offset: 12, 0
+  index: -1
+PG_popup_jp_8
+  rotate: true
+  xy: 642, 917
+  size: 92, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+PG_popup_jp_coin1
+  rotate: false
+  xy: 544, 917
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+PG_popup_jp_coin2
+  rotate: false
+  xy: 242, 831
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+PG_popup_jp_effect_2
+  rotate: false
+  xy: 148, 368
+  size: 465, 348
+  orig: 465, 348
+  offset: 0, 0
+  index: -1
+PG_popup_jp_grand
+  rotate: false
+  xy: 242, 718
+  size: 445, 111
+  orig: 445, 111
+  offset: 0, 0
+  index: -1
+PG_popup_jp_jackpot
+  rotate: false
+  xy: 544, 831
+  size: 416, 84
+  orig: 416, 84
+  offset: 0, 0
+  index: -1
+Popup_BG
+  rotate: false
+  xy: 695, 1
+  size: 321, 374
+  orig: 321, 374
+  offset: 0, 0
+  index: -1
+Popup_Coin_bg
+  rotate: true
+  xy: 163, 718
+  size: 284, 77
+  orig: 284, 77
+  offset: 0, 0
+  index: -1
+Popup_jackpot_bg
+  rotate: false
+  xy: 231, 130
+  size: 389, 166
+  orig: 389, 166
+  offset: 0, 0
+  index: -1
+TLP_popup_deco_1
+  rotate: false
+  xy: 1, 335
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+TLP_popup_deco_2
+  rotate: true
+  xy: 148, 718
+  size: 298, 13
+  orig: 298, 13
+  offset: 0, 0
+  index: -1
+TLP_popup_text_congratulation
+  rotate: true
+  xy: 1, 377
+  size: 635, 145
+  orig: 635, 145
+  offset: 0, 0
+  index: -1
+TLP_popup_text_credits
+  rotate: true
+  xy: 1, 130
+  size: 203, 65
+  orig: 203, 65
+  offset: 0, 0
+  index: -1
+TLP_popup_text_diafreegames
+  rotate: false
+  xy: 1, 1
+  size: 692, 127
+  orig: 692, 127
+  offset: 0, 0
+  index: -1
+TLP_popup_text_diamondwheelchance
+  rotate: true
+  xy: 622, 130
+  size: 582, 59
+  orig: 582, 59
+  offset: 0, 0
+  index: -1
+TLP_popup_text_youwon
+  rotate: false
+  xy: 71, 302
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+TLP_RCu_symbol_scatter
+  rotate: true
+  xy: 68, 130
+  size: 170, 161
+  orig: 176, 173
+  offset: 3, 1
+  index: -1

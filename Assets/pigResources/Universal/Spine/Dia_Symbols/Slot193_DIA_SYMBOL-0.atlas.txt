@@ -1,0 +1,125 @@
+
+Slot193_DIA_SYMBOL-0.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_0000_Diamond_28
+  rotate: false
+  xy: 259, 169
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+b_0001_Diamond_27
+  rotate: false
+  xy: 1, 259
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+b_0002_Diamond_26
+  rotate: false
+  xy: 179, 309
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+b_0003_Diamond_25
+  rotate: false
+  xy: 1, 399
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+diamond_shine01
+  rotate: false
+  xy: 259, 1
+  size: 229, 166
+  orig: 229, 166
+  offset: 0, 0
+  index: -1
+eff_eye_light_line1
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+g_0000_Diamond_28
+  rotate: true
+  xy: 357, 309
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+g_0001_Diamond_27
+  rotate: false
+  xy: 179, 449
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+g_0002_Diamond_26
+  rotate: false
+  xy: 1, 539
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+g_0003_Diamond_25
+  rotate: true
+  xy: 357, 487
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+MBU_main_feature_2x_dia_light
+  rotate: false
+  xy: 357, 843
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+MBU_main_feature_3x_dia_light
+  rotate: false
+  xy: 1, 869
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+MBU_main_feature_4x_dia_light
+  rotate: false
+  xy: 102, 869
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+r_0000_Diamond_28
+  rotate: false
+  xy: 179, 589
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+r_0001_Diamond_27
+  rotate: false
+  xy: 1, 679
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+r_0002_Diamond_26
+  rotate: true
+  xy: 357, 665
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1
+r_0003_Diamond_25
+  rotate: false
+  xy: 179, 729
+  size: 176, 138
+  orig: 195, 192
+  offset: 10, 28
+  index: -1

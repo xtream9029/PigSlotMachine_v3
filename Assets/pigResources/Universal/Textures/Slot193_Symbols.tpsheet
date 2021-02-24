@@ -1,0 +1,32 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4b8c9a8fc4e8c68d6b2d1df8ba65230f:9ebcae801837ed2d8d685d197999380d:049f74bedf244e81e52dd238e10d191c$
+#
+:format=40300
+:texture=Slot193_Symbols.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+TLP_RCu_symbol_coin1;3;829;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_coin2;202;829;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_coin3;401;829;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_dia_blue;600;829;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_dia_green;799;829;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_dia_red;3;633;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_high1;3;437;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_high2;3;241;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_high3;3;45;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_low1;202;633;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_low2;401;633;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_low3;600;633;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_low4;799;633;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_mid1;202;437;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_mid2;202;241;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_mid3;202;45;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_scatter;401;437;195;192; 0.5;0.5; 0;0;0;0
+TLP_RCu_symbol_wild;600;437;195;192; 0.5;0.5; 0;0;0;0

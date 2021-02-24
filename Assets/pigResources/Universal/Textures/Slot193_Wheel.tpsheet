@@ -1,0 +1,39 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c255a6dbd7713c54e391a3a465efd3fd:2397d27e78283b36b03aa9197258346b:7f0f535144fb2679ab73b3d84b1d97af$
+#
+:format=40300
+:texture=Slot193_Wheel.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=enabled
+
+2x;610;601;318;108; 0.5;0.5; 0;0;0;0
+3x;610;489;318;108; 0.5;0.5; 0;0;0;0
+4x;479;326;318;108; 0.5;0.5; 0;0;0;0
+grasslight_add;3;223;228;182; 0.5;0.5; 0;0;0;0
+TLP_popup_btn_collect;462;54;270;108; 0.5;0.5; 0;0;0;0
+TLP_popup_btn_start;247;166;276;111; 0.5;0.5; 0;0;0;0
+TLP_popup_sharebox_off;247;97;196;65; 0.5;0.5; 0;0;0;0
+TLP_popup_sharebox_on;262;28;196;65; 0.5;0.5; 0;0;0;0
+TLP_RCu_Frame_wheel;3;409;200;300; 0.5;0.5; 96;96;144;148
+TLP_RCu_Framearrow;932;597;86;112; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_diablue;3;66;240;153; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_diagreen;207;556;240;153; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_diared;235;281;240;153; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_frameblue;3;869;471;152; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_framegreen;478;869;471;152; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_framered;3;713;471;152; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_frameyellow;478;713;471;152; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_text1x;207;438;155;114; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_text2x;366;438;155;114; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_text3x;451;595;155;114; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheelcontents_textfreegames;3;17;255;45; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheeltext_2x;527;222;137;100; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheeltext_3x;668;222;137;100; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheeltext_4x;801;385;137;100; 0.5;0.5; 0;0;0;0
+TLP_RCu_wheeltext_freegame;525;524;75;67; 0.5;0.5; 0;0;0;0

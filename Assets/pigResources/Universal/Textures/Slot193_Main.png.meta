@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 04272309356629c469d71dfe652f93a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Slot193_Main
+  - first:
+      213: 21300002
+    second: BG_0
+  - first:
+      213: 21300004
+    second: BG_1
+  - first:
+      213: 21300006
+    second: BG_2
+  - first:
+      213: 21300008
+    second: BG_3
+  - first:
+      213: 21300010
+    second: BG_4
+  - first:
+      213: 21300012
+    second: BG_5
+  - first:
+      213: 21300014
+    second: normal_reel_bg
+  - first:
+      213: 21300016
+    second: TLP_frame_free_bottom
+  - first:
+      213: 21300018
+    second: TLP_frame_free_inside
+  - first:
+      213: 21300020
+    second: TLP_frame_free_side
+  - first:
+      213: 21300022
+    second: TLP_frame_free_top
+  - first:
+      213: 21300024
+    second: TLP_frame_normal_bottom
+  - first:
+      213: 21300026
+    second: TLP_frame_normal_inside
+  - first:
+      213: 21300028
+    second: TLP_frame_normal_side
+  - first:
+      213: 21300030
+    second: TLP_frame_normal_top
+  - first:
+      213: 21300032
+    second: TLP_RCu_Free_jackpotframe
+  - first:
+      213: 21300034
+    second: TLP_RCu_Free_reel
+  - first:
+      213: 21300036
+    second: TLP_RCu_freebar_2x
+  - first:
+      213: 21300038
+    second: TLP_RCu_freebar_3x
+  - first:
+      213: 21300040
+    second: TLP_RCu_freebar_4x
+  - first:
+      213: 21300042
+    second: TLP_RCu_freebar_frameblue
+  - first:
+      213: 21300044
+    second: TLP_RCu_freebar_framegreen
+  - first:
+      213: 21300046
+    second: TLP_RCu_freebar_framered
+  - first:
+      213: 21300048
+    second: TLP_RCu_freebardia_blue
+  - first:
+      213: 21300050
+    second: TLP_RCu_freebardia_green
+  - first:
+      213: 21300052
+    second: TLP_RCu_freebardia_red
+  - first:
+      213: 21300054
+    second: TLP_RCu_Freegametext
+  - first:
+      213: 21300056
+    second: TLP_RCu_Jackpotcoin
+  - first:
+      213: 21300058
+    second: TLP_RCu_Jackpotnumber_5
+  - first:
+      213: 21300060
+    second: TLP_RCu_Jackpotnumber_6
+  - first:
+      213: 21300062
+    second: TLP_RCu_Jackpotnumber_7
+  - first:
+      213: 21300064
+    second: TLP_RCu_Jackpotnumber_8
+  - first:
+      213: 21300066
+    second: TLP_RCu_Jackpotnumber_9
+  - first:
+      213: 21300068
+    second: TLP_RCu_Normal_jackpotframe
+  - first:
+      213: 21300070
+    second: TLP_RCu_title
+  - first:
+      213: 21300072
+    second: TLP_spinleft_2x
+  - first:
+      213: 21300074
+    second: TLP_spinleft_3x
+  - first:
+      213: 21300076
+    second: TLP_spinleft_4x
+  - first:
+      213: 21300078
+    second: TLP_spinleft_blueline
+  - first:
+      213: 21300080
+    second: TLP_spinleft_greenline
+  - first:
+      213: 21300082
+    second: TLP_spinleft_redline
+  - first:
+      213: 21300084
+    second: TLP_spinleft_text_of
+  - first:
+      213: 21300086
+    second: TLP_spinleft_text_spinleft
+  - first:
+      213: 21300088
+    second: effec_bg
+  - first:
+      213: 21300090
+    second: TLP_RCu_pg_5_bg
+  - first:
+      213: 21300092
+    second: TLP_RCu_pg_6_bg
+  - first:
+      213: 21300094
+    second: TLP_RCu_pg_7_bg
+  - first:
+      213: 21300096
+    second: TLP_RCu_pg_8_bg
+  - first:
+      213: 21300098
+    second: TLP_RCu_pg_9_bg
+  - first:
+      213: 21300100
+    second: TLP_RCu_pg_backbg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effec_bg
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2eac4e3bb9034dba9a467c244b0e5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal_reel_bg
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 34
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be36680617b1b434d93e208d3f2945d6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_free_bottom
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 499
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee4356713072464aa083dccbcd11eb0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_free_inside
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 6
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4cb17144982a642b5d3c32a07f5d40
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_free_side
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 29
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e86d94dab321941b06830aacb4efaa
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_free_top
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 370
+        width: 498
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05911f3d720e7de4daf6d510f9e77b92
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_normal_bottom
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 396
+        width: 499
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024d09909c7d6e4e8f0518759b756e0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_normal_inside
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 6
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b3b132ad98bd43b2dbdabf24fb462
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_normal_side
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 29
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ea80f40b1f1f4a830136b9dadf8f5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_frame_normal_top
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 344
+        width: 498
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b3d78a7850f7439a10c10873447cc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Free_jackpotframe
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 240
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 17, z: 13, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba090005a782bd6419c85d73bbc5e819
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Free_reel
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 268
+        width: 92
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19e6bbb470ec74b84c7c9807e52998
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_2x
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 36
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606b15e1c6bc574eb70044a41589b7d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_3x
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 36
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e7d257cfb926142b0ededf98980d03
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_4x
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 356
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7433b17ae6027fa4caf3ec9f6dd7f4be
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_frameblue
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 284
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.571429}
+      border: {x: 28, y: 19, z: 28, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af23b2f5c3dce5428ad6e26bfd541e8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_framegreen
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 284
+        width: 60
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.571429}
+      border: {x: 28, y: 19, z: 28, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3242a35ae7e0d844ab121bef7d84a68
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebar_framered
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 280
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.533333}
+      border: {x: 28, y: 19, z: 28, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535bad2369aaab459e751d5f617ec0e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebardia_blue
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 75
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1842b9bae8c74fbcc61162ca59ab6
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebardia_green
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 75
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1d777172221341abf45241297d4f2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_freebardia_red
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 206
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961a5b2cce103b14e987ea6e9af2995c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Freegametext
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 188
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f351acd72cd734094fab361bef75d5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotcoin
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 125
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd6209c340670e44b20e38f9ae9db16
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotnumber_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 239
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c0e52ab32146640809e9301b398e6d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotnumber_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 238
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec09419574e9040994be3434ac3f00
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotnumber_7
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 15
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f0e1c84ae28a8469e587dc720fbc00
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotnumber_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 69
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134ecf0fbc7c584892771d14db9e682
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_Jackpotnumber_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 287
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9864b75ddf979f2408dbfcbf56a61714
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_5_bg
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 291
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 28, z: 32, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e8a762d037f240a644dd7362ae986
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_6_bg
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 70
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 28, z: 32, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b7f711e64649b439cdfad4d5b0be60
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_7_bg
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 287
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 30, z: 32, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b0b66589a7ee46a65eb86e0abf282
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_8_bg
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 287
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 28, z: 32, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c574084941ee4aa9aa5ae4fe34b77
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_9_bg
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 285
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 28, z: 32, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7184a9c9235e94ab4b92a414d3c7ad
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_pg_backbg
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 107
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea70b4a5f6ed0949a298616b72c4370
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_RCu_title
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 427
+        width: 597
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71099df3596a248bde4c704748d904
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_2x
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 385
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2b91713ce79394781bd2b6e33c58ee
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_3x
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 140
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c3db8f7556554cb0cd662c377dedc
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_4x
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 156
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a1074780d52e4e9fbf4a9d3615ff6
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_blueline
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 22
+        width: 220
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd02a4b3a67b3240884f41bb147e7fc
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_greenline
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 220
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed001cfff88c247bfd5cc8560f37f1
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_redline
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 220
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da38859676bd9d4a8a80abdb1a79a8c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_text_of
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 162
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fcf22e4b0e89147a4aa24c979a018b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLP_spinleft_text_spinleft
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 41
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009dc35f22cb80f4ca6891be4d766654
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45eb54c8878b33b45b5097d27d603507
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
